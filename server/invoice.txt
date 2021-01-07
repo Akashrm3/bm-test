@@ -1,0 +1,15 @@
+=================================================================
+=================================================================
+Dear Customer, your Invoice is generated for branch : 3
+Date of Invoice : Mon Dec 28 20:56:43 IST 2020
+Name of the Customer : null
+Address : null
+Mobile : null
+Email : null
+Appointment Date : 2020-12-28 20:56:43.951
+Vaccination Status : INCOMPLETE
+Appointment Status : AVAILABLE
+Total amount : null
+This is automatic geenerated invoice signature not needed
+=================================================================
+=================================================================
